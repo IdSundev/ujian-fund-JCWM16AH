@@ -1,0 +1,19 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+#soal *{
+  margin: 10px 5px;
+}
+ul{
+  list-style: none;
+}
+button{
+  padding: 5px 15px;
+}
+input{
+  padding: 5px;
+}
+#hasil{
+  padding: 10px;
+}
