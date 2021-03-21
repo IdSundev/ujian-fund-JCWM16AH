@@ -1,6 +1,5 @@
 var inputs = []
 var angka = 0
-console.log("asdasd")
 do{
   angka = prompt('Masukan angka')
   if(angka.match(/[^\d]+/g)){
